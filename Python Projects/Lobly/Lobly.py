@@ -42,5 +42,5 @@ class Bot:
 
         sleep(5)
 
-Bot("housseina.ballouk.9@facebook.com","realracer334")
+Bot("housseina.ballouk.9@facebook.com","password")
 
